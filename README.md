@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img alt="happy" src="https://raw.githubusercontent.com/glaubermlira/happy_NLW03/main/front_site.jpg" width="400px" />
+    <img alt="happy" src="./public/images/logo.svg" width="400px" />
 </h1>
 
 
 <h3 align="center">
-    happy | NLW_03
+    happy | NLW_03 - Discovery
 </h3>
 
 <blockquote align="center">“O progresso é a lei da história da humanidade, e o homem está em constante processo de evolução!”</blockquote>
@@ -62,7 +62,3 @@ Esse projeto está sob a licença [MIT](https://github.com/glaubermlira/be-the-h
 
 
 
-
-### 
-
-### Tecnologias Utilizadas: HTML, CSS e JAVASCRIPT;
